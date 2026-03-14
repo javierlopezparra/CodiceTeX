@@ -1,6 +1,3 @@
-# CodiceTeX
-Editor LaTeX gratuito y open source para universidades públicas de México y Latinoamérica
-
 # 𓂀🪶 CodiceTeX
 
 > **Editor LaTeX gratuito y open source para universidades públicas de México y Latinoamérica**
